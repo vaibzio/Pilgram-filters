@@ -22,6 +22,6 @@ img = PIL.Image.open("ABC.jpg")
 Use Jupyter Notebook if you want to preview your progress and changes.
 
 Files:
-Editing pilgram.ipynb = Jupyter Notebook for typing the python code\n
-Hills.jpg = Original photo\n
+Editing pilgram.ipynb = Jupyter Notebook for typing the python code,
+Hills.jpg = Original photo,
 Hills_pilgram_flters.jpg = Photo after editing with pilgram
